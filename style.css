@@ -19,3 +19,8 @@ h1,#div1{
 #retext{
     color: red;
 }
+button{
+    background-color: dimgray;
+    color: white;
+    font-weight: bold;
+}
