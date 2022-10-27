@@ -12,6 +12,7 @@ p{
 }
 h1,#div1{
     text-align: center;
+    background-color: yellow;
 }
 #retext{
     color: red;
