@@ -19,8 +19,23 @@ h1,#div1{
 #retext{
     color: red;
 }
-button{
-    background-color: dimgray;
+.buttons{
+    background-color: black;
     color: white;
     font-weight: bold;
+    border-radius: 4px;
+}
+.buttons:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid green;
+    
+}
+#inpval{
+    border: 2px solid black;
+    color: black;
+    font-weight: bold;
+}
+::placeholder{
+    color: black;
 }
