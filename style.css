@@ -1,0 +1,18 @@
+h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+p{
+    font-weight:bold;
+}
+#div1{
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+h1,#div1{
+    text-align: center;
+}
+#retext{
+    color: red;
+}
