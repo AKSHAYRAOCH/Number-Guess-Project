@@ -1,6 +1,7 @@
 h1{
     font-size: 32px;
     font-weight: bold;
+    background-color: yellow;
 }
 p{
     font-weight:bold;
@@ -12,7 +13,7 @@ p{
 }
 h1,#div1{
     text-align: center;
-    background-color: yellow;
+    
 }
 #retext{
     color: red;
