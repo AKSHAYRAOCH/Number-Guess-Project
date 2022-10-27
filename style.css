@@ -2,6 +2,7 @@ h1{
     font-size: 32px;
     font-weight: bold;
     background-color: yellow;
+    display:inline;
 }
 p{
     font-weight:bold;
